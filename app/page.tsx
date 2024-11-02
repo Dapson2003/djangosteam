@@ -4,6 +4,7 @@ export default function Home() {
   return (
     <main className="">
       DjangoSteam
+      <h1>Hello world</h1>
     </main>
   );
 }
