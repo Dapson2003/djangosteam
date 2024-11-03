@@ -1,5 +1,4 @@
 import Image from "next/image";
-import { Button } from "@nextui-org/button";
 export default function Gameinfo() {
   return (
     <div className="pt-5">
@@ -21,7 +20,7 @@ export default function Gameinfo() {
 
       <Image
         className="mb-5 w-full h-52"
-        src="/taco.jpg "
+        src="/taco.jpg"
         width={500}
         height={500}
         alt="tacotuesday"
