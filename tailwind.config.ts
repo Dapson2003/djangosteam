@@ -11,6 +11,8 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        night: "#0E3457",
+        opnig:"#FAF8E7",
       },
     },
   },
