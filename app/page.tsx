@@ -2,6 +2,9 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="bg-red-400 text-center">test</main>
+    <main className="">
+      DjangoSteam
+      <h1>Hello Junior</h1>
+    </main>
   );
 }
